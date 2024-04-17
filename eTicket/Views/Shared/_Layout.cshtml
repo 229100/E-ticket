@@ -1,0 +1,127 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - eTickets</title>
+
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.4.1/font/bootstrap-icons.css">
+
+    <!-- Add your logo to the title -->
+    <link rel="icon" href="https://avatars.mds.yandex.net/i?id=7ac3782ba7b0d11d875c5fe71025becd5443c36a-12382358-images-thumbs&n=13" type="image/x-icon">
+    <link rel="shortcut icon" href="https://avatars.mds.yandex.net/i?id=7ac3782ba7b0d11d875c5fe71025becd5443c36a-12382358-images-thumbs&n=13" type="image/x-icon">
+
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/css/toastr.min.css" />
+
+    <!-- Toastr Notification -->
+
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/css/toastr.min.css" />
+
+
+    <!-- Your existing HTML content -->
+    <script src="https://code.jquery.com/jquery-3.6.4.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.bundle.min.js"></script>
+
+</head>
+<body>
+    <header>
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-auto">
+            <div class="container-fluid">
+                <a class="navbar-brand" asp-controller="Movies" asp-action="Index">
+                    <img src="https://avatars.mds.yandex.net/i?id=7ac3782ba7b0d11d875c5fe71025becd5443c36a-12382358-images-thumbs&n=13" alt="Logo" width="100" height="auto">
+                </a>
+
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                        aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+                    <ul class="navbar-nav flex-grow-1">
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Movies" asp-action="Index"><i class="bi bi-film"></i>Мероприятия</a>
+                        </li>
+                        @*
+                        <a class="nav-link text-dark" asp-area="" asp-controller="Cinemas" asp-action="Index"><i class="bi bi-camera-reels"></i> Cinemas</a>
+                        <a class="nav-link text-dark" asp-area="" asp-controller="Producers" asp-action="Index"><i class="bi bi-headset"></i> Producers</a>
+                        <a class="nav-link text-dark" asp-area="" asp-controller="Actors" asp-action="Index"><i class="bi bi-person-square"></i> Actors</a>
+                        *@
+                        @if (User.Identity.IsAuthenticated && User.IsInRole("Admin"))
+                        {
+
+                            <li class="nav-item dropdown">
+                                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                    <i class="bi bi-gear"></i> Управление
+                                </a>
+
+                                <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                                    <a class="dropdown-item" asp-controller="Cinemas" asp-action="Index"><i class="bi bi-camera-reels"></i> Места проведения событий</a>
+                                    <a class="dropdown-item" asp-controller="Producers" asp-action="Index"><i class="bi bi-headset"></i> Организаторы</a>
+                                    <a class="dropdown-item" asp-controller="Actors" asp-action="Index"><i class="bi bi-person-square"></i> Участники мероприятий</a>
+                                </div>
+                            </li>
+                        }
+                    </ul>
+
+
+                    <form class="form-inline my-2 my-lg-0" asp-controller="Movies" asp-action="Filter" style="padding-right: 25px;">
+                        <input name="searchString" type="text" class="form-control" placeholder="Найти событие" aria-label="Recipient's username" aria-describedby="button-addon2">
+                        <button class="btn btn-outline-success my-2 my-sm-0" type="submit"><i class="bi bi-search"></i></button>
+                    </form>
+
+                    <ul class="navbar-nav">
+                        @await Component.InvokeAsync("ShoppingCartSummary")
+                    </ul>
+
+                    <partial name="_identityPartial" />
+
+                </div>
+            </div>
+        </nav>
+    </header>
+    <div class="container-fluid">
+        <main role="main" class="pb-3">
+            <partial name="_Notification" />
+            @RenderBody()
+        </main>
+
+    </div>
+
+    <footer class="border-top footer text-muted">
+        <div class="container">
+            ASP .NET Проект  &copy; 2024 - eTickets  | Создано Куаныш Арманом и Данияром Топаевым
+        </div>
+    </footer>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+
+    @* Builtin input Validation *@
+    <partial name="_ValidationScriptsPartial" />
+
+    @await RenderSectionAsync("Scripts", required: false)
+
+    <!-- Toastr options -->
+    <script>
+        toastr.options = {
+            "closeButton": true,
+            "debug": false,
+            "newestOnTop": false,
+            "progressBar": false,
+            "positionClass": "toast-top-center",
+            "preventDuplicates": false,
+            "onclick": null,
+            "showDuration": "300",
+            "hideDuration": "1000",
+            "timeOut": "5000",
+            "extendedTimeOut": "1000",
+            "showEasing": "swing",
+            "hideEasing": "linear",
+            "showMethod": "fadeIn",
+            "hideMethod": "fadeOut"
+        }
+    </script>
+</body>
+</html>
+

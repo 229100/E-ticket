@@ -1,0 +1,734 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\botik\\source\\repos\\Complete-ecommerce-ASP.NET-MVC-eTicket-Application\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0AD482CE-0CF7-4A37-8C83-CF5E67856540}|eTicket\\eTicket.csproj|C:\\Users\\botik\\source\\repos\\Complete-ecommerce-ASP.NET-MVC-eTicket-Application\\eticket\\controllers\\producerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AD482CE-0CF7-4A37-8C83-CF5E67856540}|eTicket\\eTicket.csproj|solutionrelative:eticket\\controllers\\producerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AD482CE-0CF7-4A37-8C83-CF5E67856540}|eTicket\\eTicket.csproj|C:\\Users\\botik\\source\\repos\\Complete-ecommerce-ASP.NET-MVC-eTicket-Application\\eticket\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AD482CE-0CF7-4A37-8C83-CF5E67856540}|eTicket\\eTicket.csproj|solutionrelative:eticket\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AD482CE-0CF7-4A37-8C83-CF5E67856540}|eTicket\\eTicket.csproj|C:\\Users\\botik\\source\\repos\\Complete-ecommerce-ASP.NET-MVC-eTicket-Application\\eticket\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AD482CE-0CF7-4A37-8C83-CF5E67856540}|eTicket\\eTicket.csproj|solutionrelative:eticket\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AD482CE-0CF7-4A37-8C83-CF5E67856540}|eTicket\\eTicket.csproj|C:\\Users\\botik\\source\\repos\\Complete-ecommerce-ASP.NET-MVC-eTicket-Application\\eticket\\controllers\\cinemascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AD482CE-0CF7-4A37-8C83-CF5E67856540}|eTicket\\eTicket.csproj|solutionrelative:eticket\\controllers\\cinemascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AD482CE-0CF7-4A37-8C83-CF5E67856540}|eTicket\\eTicket.csproj|C:\\Users\\botik\\source\\repos\\Complete-ecommerce-ASP.NET-MVC-eTicket-Application\\eticket\\controllers\\actorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AD482CE-0CF7-4A37-8C83-CF5E67856540}|eTicket\\eTicket.csproj|solutionrelative:eticket\\controllers\\actorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AD482CE-0CF7-4A37-8C83-CF5E67856540}|eTicket\\eTicket.csproj|C:\\Users\\botik\\source\\repos\\Complete-ecommerce-ASP.NET-MVC-eTicket-Application\\eticket\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AD482CE-0CF7-4A37-8C83-CF5E67856540}|eTicket\\eTicket.csproj|solutionrelative:eticket\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AD482CE-0CF7-4A37-8C83-CF5E67856540}|eTicket\\eTicket.csproj|C:\\Users\\botik\\source\\repos\\Complete-ecommerce-ASP.NET-MVC-eTicket-Application\\eticket\\data\\enums\\moviecategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AD482CE-0CF7-4A37-8C83-CF5E67856540}|eTicket\\eTicket.csproj|solutionrelative:eticket\\data\\enums\\moviecategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AD482CE-0CF7-4A37-8C83-CF5E67856540}|eTicket\\eTicket.csproj|C:\\Users\\botik\\source\\repos\\Complete-ecommerce-ASP.NET-MVC-eTicket-Application\\eticket\\models\\actor_movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AD482CE-0CF7-4A37-8C83-CF5E67856540}|eTicket\\eTicket.csproj|solutionrelative:eticket\\models\\actor_movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AD482CE-0CF7-4A37-8C83-CF5E67856540}|eTicket\\eTicket.csproj|C:\\Users\\botik\\source\\repos\\Complete-ecommerce-ASP.NET-MVC-eTicket-Application\\eticket\\views\\account\\users.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0AD482CE-0CF7-4A37-8C83-CF5E67856540}|eTicket\\eTicket.csproj|solutionrelative:eticket\\views\\account\\users.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AD482CE-0CF7-4A37-8C83-CF5E67856540}|eTicket\\eTicket.csproj|C:\\Users\\botik\\source\\repos\\Complete-ecommerce-ASP.NET-MVC-eTicket-Application\\eticket\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0AD482CE-0CF7-4A37-8C83-CF5E67856540}|eTicket\\eTicket.csproj|solutionrelative:eticket\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AD482CE-0CF7-4A37-8C83-CF5E67856540}|eTicket\\eTicket.csproj|C:\\Users\\botik\\source\\repos\\Complete-ecommerce-ASP.NET-MVC-eTicket-Application\\eticket\\views\\account\\registercompleted.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0AD482CE-0CF7-4A37-8C83-CF5E67856540}|eTicket\\eTicket.csproj|solutionrelative:eticket\\views\\account\\registercompleted.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AD482CE-0CF7-4A37-8C83-CF5E67856540}|eTicket\\eTicket.csproj|C:\\Users\\botik\\source\\repos\\Complete-ecommerce-ASP.NET-MVC-eTicket-Application\\eticket\\views\\actors\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0AD482CE-0CF7-4A37-8C83-CF5E67856540}|eTicket\\eTicket.csproj|solutionrelative:eticket\\views\\actors\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AD482CE-0CF7-4A37-8C83-CF5E67856540}|eTicket\\eTicket.csproj|C:\\Users\\botik\\source\\repos\\Complete-ecommerce-ASP.NET-MVC-eTicket-Application\\eticket\\views\\cinemas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0AD482CE-0CF7-4A37-8C83-CF5E67856540}|eTicket\\eTicket.csproj|solutionrelative:eticket\\views\\cinemas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AD482CE-0CF7-4A37-8C83-CF5E67856540}|eTicket\\eTicket.csproj|C:\\Users\\botik\\source\\repos\\Complete-ecommerce-ASP.NET-MVC-eTicket-Application\\eticket\\views\\movies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0AD482CE-0CF7-4A37-8C83-CF5E67856540}|eTicket\\eTicket.csproj|solutionrelative:eticket\\views\\movies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AD482CE-0CF7-4A37-8C83-CF5E67856540}|eTicket\\eTicket.csproj|C:\\Users\\botik\\source\\repos\\Complete-ecommerce-ASP.NET-MVC-eTicket-Application\\eticket\\views\\orders\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0AD482CE-0CF7-4A37-8C83-CF5E67856540}|eTicket\\eTicket.csproj|solutionrelative:eticket\\views\\orders\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AD482CE-0CF7-4A37-8C83-CF5E67856540}|eTicket\\eTicket.csproj|C:\\Users\\botik\\source\\repos\\Complete-ecommerce-ASP.NET-MVC-eTicket-Application\\eticket\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0AD482CE-0CF7-4A37-8C83-CF5E67856540}|eTicket\\eTicket.csproj|solutionrelative:eticket\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AD482CE-0CF7-4A37-8C83-CF5E67856540}|eTicket\\eTicket.csproj|C:\\Users\\botik\\source\\repos\\Complete-ecommerce-ASP.NET-MVC-eTicket-Application\\eticket\\views\\shared\\filternotfound.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0AD482CE-0CF7-4A37-8C83-CF5E67856540}|eTicket\\eTicket.csproj|solutionrelative:eticket\\views\\shared\\filternotfound.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AD482CE-0CF7-4A37-8C83-CF5E67856540}|eTicket\\eTicket.csproj|C:\\Users\\botik\\source\\repos\\Complete-ecommerce-ASP.NET-MVC-eTicket-Application\\eticket\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0AD482CE-0CF7-4A37-8C83-CF5E67856540}|eTicket\\eTicket.csproj|solutionrelative:eticket\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AD482CE-0CF7-4A37-8C83-CF5E67856540}|eTicket\\eTicket.csproj|C:\\Users\\botik\\source\\repos\\Complete-ecommerce-ASP.NET-MVC-eTicket-Application\\eticket\\views\\shared\\_identitypartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0AD482CE-0CF7-4A37-8C83-CF5E67856540}|eTicket\\eTicket.csproj|solutionrelative:eticket\\views\\shared\\_identitypartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AD482CE-0CF7-4A37-8C83-CF5E67856540}|eTicket\\eTicket.csproj|C:\\Users\\botik\\source\\repos\\Complete-ecommerce-ASP.NET-MVC-eTicket-Application\\eticket\\views\\shared\\_createitempartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0AD482CE-0CF7-4A37-8C83-CF5E67856540}|eTicket\\eTicket.csproj|solutionrelative:eticket\\views\\shared\\_createitempartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AD482CE-0CF7-4A37-8C83-CF5E67856540}|eTicket\\eTicket.csproj|C:\\Users\\botik\\source\\repos\\Complete-ecommerce-ASP.NET-MVC-eTicket-Application\\eticket\\views\\account\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0AD482CE-0CF7-4A37-8C83-CF5E67856540}|eTicket\\eTicket.csproj|solutionrelative:eticket\\views\\account\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AD482CE-0CF7-4A37-8C83-CF5E67856540}|eTicket\\eTicket.csproj|c:\\users\\botik\\source\\repos\\complete-ecommerce-asp.net-mvc-eticket-application\\eticket\\data\\appdbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AD482CE-0CF7-4A37-8C83-CF5E67856540}|eTicket\\eTicket.csproj|solutionrelative:eticket\\data\\appdbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AD482CE-0CF7-4A37-8C83-CF5E67856540}|eTicket\\eTicket.csproj|C:\\Users\\botik\\source\\repos\\Complete-ecommerce-ASP.NET-MVC-eTicket-Application\\eticket\\views\\movies\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0AD482CE-0CF7-4A37-8C83-CF5E67856540}|eTicket\\eTicket.csproj|solutionrelative:eticket\\views\\movies\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AD482CE-0CF7-4A37-8C83-CF5E67856540}|eTicket\\eTicket.csproj|C:\\Users\\botik\\source\\repos\\Complete-ecommerce-ASP.NET-MVC-eTicket-Application\\eticket\\views\\cinemas\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0AD482CE-0CF7-4A37-8C83-CF5E67856540}|eTicket\\eTicket.csproj|solutionrelative:eticket\\views\\cinemas\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AD482CE-0CF7-4A37-8C83-CF5E67856540}|eTicket\\eTicket.csproj|C:\\Users\\botik\\source\\repos\\Complete-ecommerce-ASP.NET-MVC-eTicket-Application\\eticket\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0AD482CE-0CF7-4A37-8C83-CF5E67856540}|eTicket\\eTicket.csproj|solutionrelative:eticket\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AD482CE-0CF7-4A37-8C83-CF5E67856540}|eTicket\\eTicket.csproj|C:\\Users\\botik\\source\\repos\\Complete-ecommerce-ASP.NET-MVC-eTicket-Application\\eticket\\views\\movies\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0AD482CE-0CF7-4A37-8C83-CF5E67856540}|eTicket\\eTicket.csproj|solutionrelative:eticket\\views\\movies\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AD482CE-0CF7-4A37-8C83-CF5E67856540}|eTicket\\eTicket.csproj|C:\\Users\\botik\\source\\repos\\Complete-ecommerce-ASP.NET-MVC-eTicket-Application\\eticket\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AD482CE-0CF7-4A37-8C83-CF5E67856540}|eTicket\\eTicket.csproj|solutionrelative:eticket\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AD482CE-0CF7-4A37-8C83-CF5E67856540}|eTicket\\eTicket.csproj|C:\\Users\\botik\\source\\repos\\Complete-ecommerce-ASP.NET-MVC-eTicket-Application\\eticket\\views\\cinemas\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0AD482CE-0CF7-4A37-8C83-CF5E67856540}|eTicket\\eTicket.csproj|solutionrelative:eticket\\views\\cinemas\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AD482CE-0CF7-4A37-8C83-CF5E67856540}|eTicket\\eTicket.csproj|C:\\Users\\botik\\source\\repos\\Complete-ecommerce-ASP.NET-MVC-eTicket-Application\\eticket\\views\\producers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0AD482CE-0CF7-4A37-8C83-CF5E67856540}|eTicket\\eTicket.csproj|solutionrelative:eticket\\views\\producers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AD482CE-0CF7-4A37-8C83-CF5E67856540}|eTicket\\eTicket.csproj|C:\\Users\\botik\\source\\repos\\Complete-ecommerce-ASP.NET-MVC-eTicket-Application\\eticket\\views\\producers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0AD482CE-0CF7-4A37-8C83-CF5E67856540}|eTicket\\eTicket.csproj|solutionrelative:eticket\\views\\producers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AD482CE-0CF7-4A37-8C83-CF5E67856540}|eTicket\\eTicket.csproj|C:\\Users\\botik\\source\\repos\\Complete-ecommerce-ASP.NET-MVC-eTicket-Application\\eticket\\views\\producers\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0AD482CE-0CF7-4A37-8C83-CF5E67856540}|eTicket\\eTicket.csproj|solutionrelative:eticket\\views\\producers\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AD482CE-0CF7-4A37-8C83-CF5E67856540}|eTicket\\eTicket.csproj|C:\\Users\\botik\\source\\repos\\Complete-ecommerce-ASP.NET-MVC-eTicket-Application\\eticket\\views\\producers\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0AD482CE-0CF7-4A37-8C83-CF5E67856540}|eTicket\\eTicket.csproj|solutionrelative:eticket\\views\\producers\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AD482CE-0CF7-4A37-8C83-CF5E67856540}|eTicket\\eTicket.csproj|C:\\Users\\botik\\source\\repos\\Complete-ecommerce-ASP.NET-MVC-eTicket-Application\\eticket\\views\\producers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0AD482CE-0CF7-4A37-8C83-CF5E67856540}|eTicket\\eTicket.csproj|solutionrelative:eticket\\views\\producers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AD482CE-0CF7-4A37-8C83-CF5E67856540}|eTicket\\eTicket.csproj|C:\\Users\\botik\\source\\repos\\Complete-ecommerce-ASP.NET-MVC-eTicket-Application\\eticket\\views\\orders\\shoppingcart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0AD482CE-0CF7-4A37-8C83-CF5E67856540}|eTicket\\eTicket.csproj|solutionrelative:eticket\\views\\orders\\shoppingcart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AD482CE-0CF7-4A37-8C83-CF5E67856540}|eTicket\\eTicket.csproj|C:\\Users\\botik\\source\\repos\\Complete-ecommerce-ASP.NET-MVC-eTicket-Application\\eticket\\views\\orders\\ordercompleted.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0AD482CE-0CF7-4A37-8C83-CF5E67856540}|eTicket\\eTicket.csproj|solutionrelative:eticket\\views\\orders\\ordercompleted.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AD482CE-0CF7-4A37-8C83-CF5E67856540}|eTicket\\eTicket.csproj|C:\\Users\\botik\\source\\repos\\Complete-ecommerce-ASP.NET-MVC-eTicket-Application\\eticket\\views\\movies\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0AD482CE-0CF7-4A37-8C83-CF5E67856540}|eTicket\\eTicket.csproj|solutionrelative:eticket\\views\\movies\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AD482CE-0CF7-4A37-8C83-CF5E67856540}|eTicket\\eTicket.csproj|C:\\Users\\botik\\source\\repos\\Complete-ecommerce-ASP.NET-MVC-eTicket-Application\\eticket\\views\\movies\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0AD482CE-0CF7-4A37-8C83-CF5E67856540}|eTicket\\eTicket.csproj|solutionrelative:eticket\\views\\movies\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AD482CE-0CF7-4A37-8C83-CF5E67856540}|eTicket\\eTicket.csproj|C:\\Users\\botik\\source\\repos\\Complete-ecommerce-ASP.NET-MVC-eTicket-Application\\eticket\\views\\cinemas\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0AD482CE-0CF7-4A37-8C83-CF5E67856540}|eTicket\\eTicket.csproj|solutionrelative:eticket\\views\\cinemas\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AD482CE-0CF7-4A37-8C83-CF5E67856540}|eTicket\\eTicket.csproj|C:\\Users\\botik\\source\\repos\\Complete-ecommerce-ASP.NET-MVC-eTicket-Application\\eticket\\views\\cinemas\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0AD482CE-0CF7-4A37-8C83-CF5E67856540}|eTicket\\eTicket.csproj|solutionrelative:eticket\\views\\cinemas\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AD482CE-0CF7-4A37-8C83-CF5E67856540}|eTicket\\eTicket.csproj|C:\\Users\\botik\\source\\repos\\Complete-ecommerce-ASP.NET-MVC-eTicket-Application\\eticket\\views\\actors\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0AD482CE-0CF7-4A37-8C83-CF5E67856540}|eTicket\\eTicket.csproj|solutionrelative:eticket\\views\\actors\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AD482CE-0CF7-4A37-8C83-CF5E67856540}|eTicket\\eTicket.csproj|C:\\Users\\botik\\source\\repos\\Complete-ecommerce-ASP.NET-MVC-eTicket-Application\\eticket\\views\\actors\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0AD482CE-0CF7-4A37-8C83-CF5E67856540}|eTicket\\eTicket.csproj|solutionrelative:eticket\\views\\actors\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AD482CE-0CF7-4A37-8C83-CF5E67856540}|eTicket\\eTicket.csproj|C:\\Users\\botik\\source\\repos\\Complete-ecommerce-ASP.NET-MVC-eTicket-Application\\eticket\\views\\actors\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0AD482CE-0CF7-4A37-8C83-CF5E67856540}|eTicket\\eTicket.csproj|solutionrelative:eticket\\views\\actors\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AD482CE-0CF7-4A37-8C83-CF5E67856540}|eTicket\\eTicket.csproj|C:\\Users\\botik\\source\\repos\\Complete-ecommerce-ASP.NET-MVC-eTicket-Application\\eticket\\views\\actors\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0AD482CE-0CF7-4A37-8C83-CF5E67856540}|eTicket\\eTicket.csproj|solutionrelative:eticket\\views\\actors\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\botik\\source\\repos\\Complete-ecommerce-ASP.NET-MVC-eTicket-Application\\eTicket\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "eTicket\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\botik\\source\\repos\\Complete-ecommerce-ASP.NET-MVC-eTicket-Application\\eTicket\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "eTicket\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAG4AAAAAAAAAAAAswG0AAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T16:49:29.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ActorsController.cs",
+              "DocumentMoniker": "C:\\Users\\botik\\source\\repos\\Complete-ecommerce-ASP.NET-MVC-eTicket-Application\\eTicket\\Controllers\\ActorsController.cs",
+              "RelativeDocumentMoniker": "eTicket\\Controllers\\ActorsController.cs",
+              "ToolTip": "C:\\Users\\botik\\source\\repos\\Complete-ecommerce-ASP.NET-MVC-eTicket-Application\\eTicket\\Controllers\\ActorsController.cs",
+              "RelativeToolTip": "eTicket\\Controllers\\ActorsController.cs",
+              "ViewState": "AQIAAFUAAAAAAAAAAADwv2MAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T16:52:40.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MoviesController.cs",
+              "DocumentMoniker": "C:\\Users\\botik\\source\\repos\\Complete-ecommerce-ASP.NET-MVC-eTicket-Application\\eTicket\\Controllers\\MoviesController.cs",
+              "RelativeDocumentMoniker": "eTicket\\Controllers\\MoviesController.cs",
+              "ToolTip": "C:\\Users\\botik\\source\\repos\\Complete-ecommerce-ASP.NET-MVC-eTicket-Application\\eTicket\\Controllers\\MoviesController.cs",
+              "RelativeToolTip": "eTicket\\Controllers\\MoviesController.cs",
+              "ViewState": "AQIAALAAAAAAAAAAAAAUwLUAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T17:06:37.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CinemasController.cs",
+              "DocumentMoniker": "C:\\Users\\botik\\source\\repos\\Complete-ecommerce-ASP.NET-MVC-eTicket-Application\\eTicket\\Controllers\\CinemasController.cs",
+              "RelativeDocumentMoniker": "eTicket\\Controllers\\CinemasController.cs",
+              "ToolTip": "C:\\Users\\botik\\source\\repos\\Complete-ecommerce-ASP.NET-MVC-eTicket-Application\\eTicket\\Controllers\\CinemasController.cs",
+              "RelativeToolTip": "eTicket\\Controllers\\CinemasController.cs",
+              "ViewState": "AQIAAE8AAAAAAAAAAAAwwGYAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T16:54:50.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\botik\\source\\repos\\Complete-ecommerce-ASP.NET-MVC-eTicket-Application\\eTicket\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "eTicket\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\botik\\source\\repos\\Complete-ecommerce-ASP.NET-MVC-eTicket-Application\\eTicket\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "eTicket\\Controllers\\OrdersController.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAowFMAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T17:08:55.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProducersController.cs",
+              "DocumentMoniker": "C:\\Users\\botik\\source\\repos\\Complete-ecommerce-ASP.NET-MVC-eTicket-Application\\eTicket\\Controllers\\ProducersController.cs",
+              "RelativeDocumentMoniker": "eTicket\\Controllers\\ProducersController.cs",
+              "ToolTip": "C:\\Users\\botik\\source\\repos\\Complete-ecommerce-ASP.NET-MVC-eTicket-Application\\eTicket\\Controllers\\ProducersController.cs",
+              "RelativeToolTip": "eTicket\\Controllers\\ProducersController.cs",
+              "ViewState": "AQIAAFUAAAAAAAAAAAAwwGoAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T17:09:55.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MovieCategory.cs",
+              "DocumentMoniker": "C:\\Users\\botik\\source\\repos\\Complete-ecommerce-ASP.NET-MVC-eTicket-Application\\eTicket\\Data\\Enums\\MovieCategory.cs",
+              "RelativeDocumentMoniker": "eTicket\\Data\\Enums\\MovieCategory.cs",
+              "ToolTip": "C:\\Users\\botik\\source\\repos\\Complete-ecommerce-ASP.NET-MVC-eTicket-Application\\eTicket\\Data\\Enums\\MovieCategory.cs",
+              "RelativeToolTip": "eTicket\\Data\\Enums\\MovieCategory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T15:45:19.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Actor_Movie.cs",
+              "DocumentMoniker": "C:\\Users\\botik\\source\\repos\\Complete-ecommerce-ASP.NET-MVC-eTicket-Application\\eTicket\\Models\\Actor_Movie.cs",
+              "RelativeDocumentMoniker": "eTicket\\Models\\Actor_Movie.cs",
+              "ToolTip": "C:\\Users\\botik\\source\\repos\\Complete-ecommerce-ASP.NET-MVC-eTicket-Application\\eTicket\\Models\\Actor_Movie.cs",
+              "RelativeToolTip": "eTicket\\Models\\Actor_Movie.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T21:31:03.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Users.cshtml",
+              "DocumentMoniker": "C:\\Users\\botik\\source\\repos\\Complete-ecommerce-ASP.NET-MVC-eTicket-Application\\eTicket\\Views\\Account\\Users.cshtml",
+              "RelativeDocumentMoniker": "eTicket\\Views\\Account\\Users.cshtml",
+              "ToolTip": "C:\\Users\\botik\\source\\repos\\Complete-ecommerce-ASP.NET-MVC-eTicket-Application\\eTicket\\Views\\Account\\Users.cshtml",
+              "RelativeToolTip": "eTicket\\Views\\Account\\Users.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABEAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-15T14:30:47.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\botik\\source\\repos\\Complete-ecommerce-ASP.NET-MVC-eTicket-Application\\eTicket\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "eTicket\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\botik\\source\\repos\\Complete-ecommerce-ASP.NET-MVC-eTicket-Application\\eTicket\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "eTicket\\Views\\Account\\Register.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAACQAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-15T14:29:04.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RegisterCompleted.cshtml",
+              "DocumentMoniker": "C:\\Users\\botik\\source\\repos\\Complete-ecommerce-ASP.NET-MVC-eTicket-Application\\eTicket\\Views\\Account\\RegisterCompleted.cshtml",
+              "RelativeDocumentMoniker": "eTicket\\Views\\Account\\RegisterCompleted.cshtml",
+              "ToolTip": "C:\\Users\\botik\\source\\repos\\Complete-ecommerce-ASP.NET-MVC-eTicket-Application\\eTicket\\Views\\Account\\RegisterCompleted.cshtml",
+              "RelativeToolTip": "eTicket\\Views\\Account\\RegisterCompleted.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-15T14:30:05.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\botik\\source\\repos\\Complete-ecommerce-ASP.NET-MVC-eTicket-Application\\eTicket\\Views\\Actors\\Index.cshtml",
+              "RelativeDocumentMoniker": "eTicket\\Views\\Actors\\Index.cshtml",
+              "ToolTip": "C:\\Users\\botik\\source\\repos\\Complete-ecommerce-ASP.NET-MVC-eTicket-Application\\eTicket\\Views\\Actors\\Index.cshtml",
+              "RelativeToolTip": "eTicket\\Views\\Actors\\Index.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA8AAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-15T14:51:19.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\botik\\source\\repos\\Complete-ecommerce-ASP.NET-MVC-eTicket-Application\\eTicket\\Views\\Cinemas\\Index.cshtml",
+              "RelativeDocumentMoniker": "eTicket\\Views\\Cinemas\\Index.cshtml",
+              "ToolTip": "C:\\Users\\botik\\source\\repos\\Complete-ecommerce-ASP.NET-MVC-eTicket-Application\\eTicket\\Views\\Cinemas\\Index.cshtml",
+              "RelativeToolTip": "eTicket\\Views\\Cinemas\\Index.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAABMAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-15T14:53:56.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\botik\\source\\repos\\Complete-ecommerce-ASP.NET-MVC-eTicket-Application\\eTicket\\Views\\Movies\\Index.cshtml",
+              "RelativeDocumentMoniker": "eTicket\\Views\\Movies\\Index.cshtml",
+              "ToolTip": "C:\\Users\\botik\\source\\repos\\Complete-ecommerce-ASP.NET-MVC-eTicket-Application\\eTicket\\Views\\Movies\\Index.cshtml",
+              "RelativeToolTip": "eTicket\\Views\\Movies\\Index.cshtml",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAAB4AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-15T15:08:49.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\botik\\source\\repos\\Complete-ecommerce-ASP.NET-MVC-eTicket-Application\\eTicket\\Views\\Orders\\Index.cshtml",
+              "RelativeDocumentMoniker": "eTicket\\Views\\Orders\\Index.cshtml",
+              "ToolTip": "C:\\Users\\botik\\source\\repos\\Complete-ecommerce-ASP.NET-MVC-eTicket-Application\\eTicket\\Views\\Orders\\Index.cshtml",
+              "RelativeToolTip": "eTicket\\Views\\Orders\\Index.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAACwAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-15T15:09:58.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\botik\\source\\repos\\Complete-ecommerce-ASP.NET-MVC-eTicket-Application\\eTicket\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "eTicket\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\botik\\source\\repos\\Complete-ecommerce-ASP.NET-MVC-eTicket-Application\\eTicket\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "eTicket\\Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACQAAABfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-15T14:28:08.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FilterNotFound.cshtml",
+              "DocumentMoniker": "C:\\Users\\botik\\source\\repos\\Complete-ecommerce-ASP.NET-MVC-eTicket-Application\\eTicket\\Views\\Shared\\FilterNotFound.cshtml",
+              "RelativeDocumentMoniker": "eTicket\\Views\\Shared\\FilterNotFound.cshtml",
+              "ToolTip": "C:\\Users\\botik\\source\\repos\\Complete-ecommerce-ASP.NET-MVC-eTicket-Application\\eTicket\\Views\\Shared\\FilterNotFound.cshtml",
+              "RelativeToolTip": "eTicket\\Views\\Shared\\FilterNotFound.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-15T15:50:39.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\botik\\source\\repos\\Complete-ecommerce-ASP.NET-MVC-eTicket-Application\\eTicket\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "eTicket\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\botik\\source\\repos\\Complete-ecommerce-ASP.NET-MVC-eTicket-Application\\eTicket\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "eTicket\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAGAAAAAAAAAAAAAAACYAAABfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-05T08:30:02.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_identityPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\botik\\source\\repos\\Complete-ecommerce-ASP.NET-MVC-eTicket-Application\\eTicket\\Views\\Shared\\_identityPartial.cshtml",
+              "RelativeDocumentMoniker": "eTicket\\Views\\Shared\\_identityPartial.cshtml",
+              "ToolTip": "C:\\Users\\botik\\source\\repos\\Complete-ecommerce-ASP.NET-MVC-eTicket-Application\\eTicket\\Views\\Shared\\_identityPartial.cshtml",
+              "RelativeToolTip": "eTicket\\Views\\Shared\\_identityPartial.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACcAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-15T15:17:11.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_CreateItemPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\botik\\source\\repos\\Complete-ecommerce-ASP.NET-MVC-eTicket-Application\\eTicket\\Views\\Shared\\_CreateItemPartial.cshtml",
+              "RelativeDocumentMoniker": "eTicket\\Views\\Shared\\_CreateItemPartial.cshtml",
+              "ToolTip": "C:\\Users\\botik\\source\\repos\\Complete-ecommerce-ASP.NET-MVC-eTicket-Application\\eTicket\\Views\\Shared\\_CreateItemPartial.cshtml",
+              "RelativeToolTip": "eTicket\\Views\\Shared\\_CreateItemPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-15T15:17:02.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AccessDenied.cshtml",
+              "DocumentMoniker": "C:\\Users\\botik\\source\\repos\\Complete-ecommerce-ASP.NET-MVC-eTicket-Application\\eTicket\\Views\\Account\\AccessDenied.cshtml",
+              "RelativeDocumentMoniker": "eTicket\\Views\\Account\\AccessDenied.cshtml",
+              "ToolTip": "C:\\Users\\botik\\source\\repos\\Complete-ecommerce-ASP.NET-MVC-eTicket-Application\\eTicket\\Views\\Account\\AccessDenied.cshtml",
+              "RelativeToolTip": "eTicket\\Views\\Account\\AccessDenied.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-15T14:26:48.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AppDbInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\botik\\source\\repos\\Complete-ecommerce-ASP.NET-MVC-eTicket-Application\\eTicket\\Data\\AppDbInitializer.cs",
+              "RelativeDocumentMoniker": "eTicket\\Data\\AppDbInitializer.cs",
+              "ToolTip": "C:\\Users\\botik\\source\\repos\\Complete-ecommerce-ASP.NET-MVC-eTicket-Application\\eTicket\\Data\\AppDbInitializer.cs",
+              "RelativeToolTip": "eTicket\\Data\\AppDbInitializer.cs",
+              "ViewState": "AQIAAA8BAAAAAAAAAAAQwGIBAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T15:47:08.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\botik\\source\\repos\\Complete-ecommerce-ASP.NET-MVC-eTicket-Application\\eTicket\\appsettings.json",
+              "RelativeDocumentMoniker": "eTicket\\appsettings.json",
+              "ToolTip": "C:\\Users\\botik\\source\\repos\\Complete-ecommerce-ASP.NET-MVC-eTicket-Application\\eTicket\\appsettings.json",
+              "RelativeToolTip": "eTicket\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-15T22:03:21.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\botik\\source\\repos\\Complete-ecommerce-ASP.NET-MVC-eTicket-Application\\eTicket\\Views\\Movies\\Create.cshtml",
+              "RelativeDocumentMoniker": "eTicket\\Views\\Movies\\Create.cshtml",
+              "ToolTip": "C:\\Users\\botik\\source\\repos\\Complete-ecommerce-ASP.NET-MVC-eTicket-Application\\eTicket\\Views\\Movies\\Create.cshtml",
+              "RelativeToolTip": "eTicket\\Views\\Movies\\Create.cshtml",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAAAkAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-15T14:54:59.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\botik\\source\\repos\\Complete-ecommerce-ASP.NET-MVC-eTicket-Application\\eTicket\\Views\\Cinemas\\Create.cshtml",
+              "RelativeDocumentMoniker": "eTicket\\Views\\Cinemas\\Create.cshtml",
+              "ToolTip": "C:\\Users\\botik\\source\\repos\\Complete-ecommerce-ASP.NET-MVC-eTicket-Application\\eTicket\\Views\\Cinemas\\Create.cshtml",
+              "RelativeToolTip": "eTicket\\Views\\Cinemas\\Create.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAB8AAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-15T14:51:55.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\botik\\source\\repos\\Complete-ecommerce-ASP.NET-MVC-eTicket-Application\\eTicket\\Views\\Movies\\Delete.cshtml",
+              "RelativeDocumentMoniker": "eTicket\\Views\\Movies\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\botik\\source\\repos\\Complete-ecommerce-ASP.NET-MVC-eTicket-Application\\eTicket\\Views\\Movies\\Delete.cshtml",
+              "RelativeToolTip": "eTicket\\Views\\Movies\\Delete.cshtml",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAAAFQAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-15T15:03:42.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\botik\\source\\repos\\Complete-ecommerce-ASP.NET-MVC-eTicket-Application\\eTicket\\Views\\Cinemas\\Details.cshtml",
+              "RelativeDocumentMoniker": "eTicket\\Views\\Cinemas\\Details.cshtml",
+              "ToolTip": "C:\\Users\\botik\\source\\repos\\Complete-ecommerce-ASP.NET-MVC-eTicket-Application\\eTicket\\Views\\Cinemas\\Details.cshtml",
+              "RelativeToolTip": "eTicket\\Views\\Cinemas\\Details.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABYAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-15T14:53:01.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\botik\\source\\repos\\Complete-ecommerce-ASP.NET-MVC-eTicket-Application\\eTicket\\Program.cs",
+              "RelativeDocumentMoniker": "eTicket\\Program.cs",
+              "ToolTip": "C:\\Users\\botik\\source\\repos\\Complete-ecommerce-ASP.NET-MVC-eTicket-Application\\eTicket\\Program.cs",
+              "RelativeToolTip": "eTicket\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T21:40:13.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "OrderCompleted.cshtml",
+              "DocumentMoniker": "C:\\Users\\botik\\source\\repos\\Complete-ecommerce-ASP.NET-MVC-eTicket-Application\\eTicket\\Views\\Orders\\OrderCompleted.cshtml",
+              "RelativeDocumentMoniker": "eTicket\\Views\\Orders\\OrderCompleted.cshtml",
+              "ToolTip": "C:\\Users\\botik\\source\\repos\\Complete-ecommerce-ASP.NET-MVC-eTicket-Application\\eTicket\\Views\\Orders\\OrderCompleted.cshtml",
+              "RelativeToolTip": "eTicket\\Views\\Orders\\OrderCompleted.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-15T15:10:48.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ShoppingCart.cshtml",
+              "DocumentMoniker": "C:\\Users\\botik\\source\\repos\\Complete-ecommerce-ASP.NET-MVC-eTicket-Application\\eTicket\\Views\\Orders\\ShoppingCart.cshtml",
+              "RelativeDocumentMoniker": "eTicket\\Views\\Orders\\ShoppingCart.cshtml",
+              "ToolTip": "C:\\Users\\botik\\source\\repos\\Complete-ecommerce-ASP.NET-MVC-eTicket-Application\\eTicket\\Views\\Orders\\ShoppingCart.cshtml",
+              "RelativeToolTip": "eTicket\\Views\\Orders\\ShoppingCart.cshtml",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAAAEAAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-15T15:11:23.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\botik\\source\\repos\\Complete-ecommerce-ASP.NET-MVC-eTicket-Application\\eTicket\\Views\\Producers\\Create.cshtml",
+              "RelativeDocumentMoniker": "eTicket\\Views\\Producers\\Create.cshtml",
+              "ToolTip": "C:\\Users\\botik\\source\\repos\\Complete-ecommerce-ASP.NET-MVC-eTicket-Application\\eTicket\\Views\\Producers\\Create.cshtml",
+              "RelativeToolTip": "eTicket\\Views\\Producers\\Create.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAACQAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-15T15:13:11.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\botik\\source\\repos\\Complete-ecommerce-ASP.NET-MVC-eTicket-Application\\eTicket\\Views\\Producers\\Delete.cshtml",
+              "RelativeDocumentMoniker": "eTicket\\Views\\Producers\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\botik\\source\\repos\\Complete-ecommerce-ASP.NET-MVC-eTicket-Application\\eTicket\\Views\\Producers\\Delete.cshtml",
+              "RelativeToolTip": "eTicket\\Views\\Producers\\Delete.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAACQAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-15T15:14:51.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\botik\\source\\repos\\Complete-ecommerce-ASP.NET-MVC-eTicket-Application\\eTicket\\Views\\Producers\\Details.cshtml",
+              "RelativeDocumentMoniker": "eTicket\\Views\\Producers\\Details.cshtml",
+              "ToolTip": "C:\\Users\\botik\\source\\repos\\Complete-ecommerce-ASP.NET-MVC-eTicket-Application\\eTicket\\Views\\Producers\\Details.cshtml",
+              "RelativeToolTip": "eTicket\\Views\\Producers\\Details.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAABgAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-15T15:15:11.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\botik\\source\\repos\\Complete-ecommerce-ASP.NET-MVC-eTicket-Application\\eTicket\\Views\\Producers\\Edit.cshtml",
+              "RelativeDocumentMoniker": "eTicket\\Views\\Producers\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\botik\\source\\repos\\Complete-ecommerce-ASP.NET-MVC-eTicket-Application\\eTicket\\Views\\Producers\\Edit.cshtml",
+              "RelativeToolTip": "eTicket\\Views\\Producers\\Edit.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACUAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-15T15:15:57.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\botik\\source\\repos\\Complete-ecommerce-ASP.NET-MVC-eTicket-Application\\eTicket\\Views\\Producers\\Index.cshtml",
+              "RelativeDocumentMoniker": "eTicket\\Views\\Producers\\Index.cshtml",
+              "ToolTip": "C:\\Users\\botik\\source\\repos\\Complete-ecommerce-ASP.NET-MVC-eTicket-Application\\eTicket\\Views\\Producers\\Index.cshtml",
+              "RelativeToolTip": "eTicket\\Views\\Producers\\Index.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACYAAABuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-15T15:16:15.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\botik\\source\\repos\\Complete-ecommerce-ASP.NET-MVC-eTicket-Application\\eTicket\\Views\\Movies\\Edit.cshtml",
+              "RelativeDocumentMoniker": "eTicket\\Views\\Movies\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\botik\\source\\repos\\Complete-ecommerce-ASP.NET-MVC-eTicket-Application\\eTicket\\Views\\Movies\\Edit.cshtml",
+              "RelativeToolTip": "eTicket\\Views\\Movies\\Edit.cshtml",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAAAFQAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-15T15:08:06.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\botik\\source\\repos\\Complete-ecommerce-ASP.NET-MVC-eTicket-Application\\eTicket\\Views\\Movies\\Details.cshtml",
+              "RelativeDocumentMoniker": "eTicket\\Views\\Movies\\Details.cshtml",
+              "ToolTip": "C:\\Users\\botik\\source\\repos\\Complete-ecommerce-ASP.NET-MVC-eTicket-Application\\eTicket\\Views\\Movies\\Details.cshtml",
+              "RelativeToolTip": "eTicket\\Views\\Movies\\Details.cshtml",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAAADAAAABbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-15T15:06:20.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\botik\\source\\repos\\Complete-ecommerce-ASP.NET-MVC-eTicket-Application\\eTicket\\Views\\Cinemas\\Edit.cshtml",
+              "RelativeDocumentMoniker": "eTicket\\Views\\Cinemas\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\botik\\source\\repos\\Complete-ecommerce-ASP.NET-MVC-eTicket-Application\\eTicket\\Views\\Cinemas\\Edit.cshtml",
+              "RelativeToolTip": "eTicket\\Views\\Cinemas\\Edit.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACUAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-15T14:53:29.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\botik\\source\\repos\\Complete-ecommerce-ASP.NET-MVC-eTicket-Application\\eTicket\\Views\\Cinemas\\Delete.cshtml",
+              "RelativeDocumentMoniker": "eTicket\\Views\\Cinemas\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\botik\\source\\repos\\Complete-ecommerce-ASP.NET-MVC-eTicket-Application\\eTicket\\Views\\Cinemas\\Delete.cshtml",
+              "RelativeToolTip": "eTicket\\Views\\Cinemas\\Delete.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACQAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-15T14:52:29.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\botik\\source\\repos\\Complete-ecommerce-ASP.NET-MVC-eTicket-Application\\eTicket\\Views\\Actors\\Edit.cshtml",
+              "RelativeDocumentMoniker": "eTicket\\Views\\Actors\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\botik\\source\\repos\\Complete-ecommerce-ASP.NET-MVC-eTicket-Application\\eTicket\\Views\\Actors\\Edit.cshtml",
+              "RelativeToolTip": "eTicket\\Views\\Actors\\Edit.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACUAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-15T14:50:53.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\botik\\source\\repos\\Complete-ecommerce-ASP.NET-MVC-eTicket-Application\\eTicket\\Views\\Actors\\Details.cshtml",
+              "RelativeDocumentMoniker": "eTicket\\Views\\Actors\\Details.cshtml",
+              "ToolTip": "C:\\Users\\botik\\source\\repos\\Complete-ecommerce-ASP.NET-MVC-eTicket-Application\\eTicket\\Views\\Actors\\Details.cshtml",
+              "RelativeToolTip": "eTicket\\Views\\Actors\\Details.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAABgAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-15T14:50:08.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\botik\\source\\repos\\Complete-ecommerce-ASP.NET-MVC-eTicket-Application\\eTicket\\Views\\Actors\\Delete.cshtml",
+              "RelativeDocumentMoniker": "eTicket\\Views\\Actors\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\botik\\source\\repos\\Complete-ecommerce-ASP.NET-MVC-eTicket-Application\\eTicket\\Views\\Actors\\Delete.cshtml",
+              "RelativeToolTip": "eTicket\\Views\\Actors\\Delete.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAACQAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-15T14:41:12.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\botik\\source\\repos\\Complete-ecommerce-ASP.NET-MVC-eTicket-Application\\eTicket\\Views\\Actors\\Create.cshtml",
+              "RelativeDocumentMoniker": "eTicket\\Views\\Actors\\Create.cshtml",
+              "ToolTip": "C:\\Users\\botik\\source\\repos\\Complete-ecommerce-ASP.NET-MVC-eTicket-Application\\eTicket\\Views\\Actors\\Create.cshtml",
+              "RelativeToolTip": "eTicket\\Views\\Actors\\Create.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACQAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-15T14:31:13.94Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
